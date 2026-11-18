@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Plugin.Insomniac/Plugin.Insomniac.csproj" />
+  <Project Path="Plugin.Insomniac.Tests/Plugin.Insomniac.Tests.csproj" />
+</Solution>
